@@ -1,0 +1,15 @@
+h1, p, button, span {
+    padding-block: 30px;
+}
+header {
+        background-color: antiquewhite;
+
+}
+body {
+    font-size: 40px;
+    padding: 0;
+}
+button {
+    width: 400px;
+    height: 80px;
+}
